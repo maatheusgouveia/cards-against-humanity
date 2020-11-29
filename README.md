@@ -1,1 +1,1 @@
-"# cards-against-humanity" 
+# cards-against-humanity
